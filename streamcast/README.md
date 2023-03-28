@@ -7,6 +7,7 @@ A chrome extension to record your Stream and share the result as a Bitmovin Stre
 - [x] Record your Stream
 - [x] Download the result as a video file
 - [x] Share the result as a Bitmovin Stream*
+- [x] Dark / Light mode 
 
 ![screenshot1](readme/screenshot1.png)
 
