@@ -8,6 +8,14 @@ A chrome extension to record your Stream and share the result as a Bitmovin Stre
 - [x] Download the result as a video file
 - [x] Share the result as a Bitmovin Stream*
 
+![screenshot1](readme/screenshot1.png)
+
+![screenshot2](readme/screenshot2.png)
+
+![screenshot3](readme/screenshot3.png)
+
+![screenshot4](readme/screenshot4.png)
+
 _*In order to use the Bitmovin Stream feature, you need to have a valid Bitmovin API key._
 
 ## Installing
