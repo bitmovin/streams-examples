@@ -1,13 +1,13 @@
-# streamcast
+# StreamCast
 
-A chrome extension to record your Stream and share the result as a Bitmovin Stream. Built with Vite + React, and Manifest v3.
+StreamCast is a Chrome extension that allows you to record your screen and share the result as a Bitmovin Stream. This example is built using Vite, React, and Chrome Extension Manifest v3.
 
 ## Features
 
-- [x] Record your Stream
+- [x] Record your Screen
 - [x] Download the result as a video file
 - [x] Share the result as a Bitmovin Stream*
-- [x] Dark / Light mode 
+- [x] Dark & Light mode 
 
 ![screenshot1](readme/screenshot1.png)
 
