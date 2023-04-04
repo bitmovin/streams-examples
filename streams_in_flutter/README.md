@@ -38,3 +38,5 @@ An example project showcasing how to use Bitmovin Streams in a Flutter project.
     ```
 
 See `lib/main.dart` and `lib/streams_view.dart` for an example implementation.
+
+![Web](/screenshots/web.png)
