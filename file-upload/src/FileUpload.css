@@ -1,0 +1,19 @@
+.file-upload-container {
+  border: 2px dashed var(--color-text);
+  border-radius: 8px;
+  padding: 5rem;
+  text-align: center;
+  width: 400px;
+}
+
+.file-upload-container.drag-active {
+  border-color: var(--color-secondary);
+}
+
+.file-upload-container.is-error {
+  border-color: var(--color-danger);
+}
+
+.file-upload-container .error-message {
+  color: var(--color-danger);
+}
