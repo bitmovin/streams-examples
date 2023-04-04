@@ -5,12 +5,12 @@ import "./App.css";
 const API_KEY = "YOUR_API_KEY";
 
 function App() {
-	return (
-		<div className="App">
-			<h2>Streams file upload</h2>
-			<FileUpload apiKey={API_KEY} />
-		</div>
-	);
+  return (
+    <div className="App">
+      <h2>Streams file upload</h2>
+      <FileUpload apiKey={API_KEY} />
+    </div>
+  );
 }
 
 export default App;
