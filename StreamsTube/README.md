@@ -4,6 +4,8 @@ Welcome to StreamsTube, a demonstration of the capabilities and potential of Bit
 
 **Note:** This project is intended as a proof of concept and not a fully-fledged video streaming platform. 
 
+![StreamsTube demo](demo.gif)
+
 ## Table of Contents
 
 - [Overview](#overview)
