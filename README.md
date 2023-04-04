@@ -9,6 +9,7 @@ Welcome to the Bitmovin Streams Examples repository! Here you'll find a collecti
 | 1   | [StreamCast](/streamcast)   | A Chrome extension to record your screen and share the result as a Bitmovin Stream. Built with Vite + React, and Extension Manifest v3.     |
 | 2   | [StreamsTube](/StreamsTube) | A demonstration of the capabilities and potential of Bitmovin Streams in a video streaming environment. Built with Next.js 13 + TailwindCSS |
 | 3   | [File Upload](/file-upload) | An example of how to use the Bitmovin direct file upload API together with Streams. Build with Vite, React and Typescript                   |
+| 4   | [Streams in Flutter](/streams_in_flutter) | An example project showcasing how to use Bitmovin Streams in a Flutter project.                                               |
 
 ---
 
