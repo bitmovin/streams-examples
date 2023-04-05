@@ -72,15 +72,12 @@ export const FileUpload: React.FC<Props> = ({ apiKey }) => {
   // We use Axios here instead of fetch to track the upload progress
   // Alternatively you could also use plain XMLHttpRequest
   const uploadFile = async (file: File, uploadUrl: string) => {
-    const formData = new FormData();
-    formData.append("file", file);
-
     setStatus(UploadStatus.UPLOADING);
 
     // Note that we use a PUT request here for the upload
-    return axios.put(uploadUrl, formData, {
+    return axios.put(uploadUrl, file, {
       headers: {
-        "Content-Type": "multipart/form-data",
+        "Content-Type": file.type,
       },
       onUploadProgress,
     });
