@@ -16,7 +16,7 @@ export const VideoCard: FunctionComponent<VideoCardProps> = ({ video }) => {
     >
       <div className="relative pb-[56.25%]">
         <ImageWithFallback
-          src={`https://streams.bitmovin.com/${video.id}/poster.png`}
+          src={`https://streams.bitmovin.com/${video.id}/poster`}
           fallbackSrc={
             "https://via.placeholder.com/320x180/87ceeb/FFFFFF.png?text=Thumbnail+not+available"
           }
