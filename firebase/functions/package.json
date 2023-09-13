@@ -1,6 +1,6 @@
 {
-  "name": "functions",
-  "description": "Cloud Functions for Firebase",
+  "name": "streams-firebase-example",
+  "description": "Example project on how to use Firebase functions to automatically create a stream on Upload",
   "scripts": {
     "lint": "eslint .",
     "serve": "firebase emulators:start --only functions",
